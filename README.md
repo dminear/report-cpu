@@ -1,5 +1,5 @@
 # report-cpu
-Docker source for python script to report cpu load average to stats.
+Docker source for python script to report cpu load average to graphite.
 
 This is another automated Docker build for Docker hub.
 
