@@ -20,10 +20,11 @@ import platform
 import subprocess
 from socket import socket
 
-CARBON_SERVER = '192.168.0.30'
+#CARBON_SERVER = '192.168.33.62'
+CARBON_SERVER = 'ops.scrappintwins.com.lan'
 CARBON_PORT = 2003
 
-delay = 10 
+delay = 30 
 if len(sys.argv) > 1:
   delay = int( sys.argv[1] )
 
