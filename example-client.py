@@ -21,7 +21,7 @@ import subprocess
 from socket import socket
 
 #CARBON_SERVER = '192.168.33.62'
-CARBON_SERVER = 'ops.scrappintwins.com.lan'
+CARBON_SERVER = 'carbonhost.lan'
 CARBON_PORT = 2003
 
 delay = 30 
